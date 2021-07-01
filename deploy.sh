@@ -14,7 +14,7 @@ git add .
 git commit -m 'first commit'
 
 # 如果发布到 https://<USERNAME>.github.io  填写你刚刚创建的仓库地址
-git remote add origin https://github.com/songqirong/static-resources.git
+# git remote add origin https://github.com/songqirong/static-resources.git
 
 git push -f origin  master:master
 
